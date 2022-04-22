@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">VikramAssignment2</string>
+    <string name="fname">First Name</string>
+    <string name="efname">Enter First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="elname">Enter Last Name</string>
+    <string name="emarks">Enter Marks</string>
+    <string name="course">Course:</string>
+    <string name="selectCourse">Select Course</string>
+    <string name="credit">Select Credits:</string>
+    <string name="c1">1</string>
+    <string name="c2">2</string>
+    <string name="c3">3</string>
+    <string name="c4">4</string>
+    <string name="addgrade">Grade Entry</string>
+    <string name="viewgrade">View Grades</string>
+    <string name="search">Search</string>
+    <string name="program">Program</string>
+    <string name="credits">Credits</string>
+    <string name="snumber">Number</string>
+    <string name="marks">Marks</string>
+    <string name="ID">ID</string>
+    <string name="search_By">Search By:</string>
+    <string name="programc">Program Code</string>
+    <string name="eId">Enter ID</string>
+    <string name="eProgramCode">Enter Program Code</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
